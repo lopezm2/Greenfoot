@@ -1,2 +1,2 @@
-# myProjects
-A repository filled with my projects so far from school.
+# Greenfoot
+A repository of my final project of my introductory java class. Was tasked with creating a small game that was intertwined with some sort of social issue. I chose income inequailty. My game was based off the classic game "Space Invaders" but with the twist that depending on your income, which you are prompted to input at the beginning of the game, the rate of fire of your character changes. The higher your income, the faster your characters rate of fire. Your character shoots coins, which destroy the incoming bills. The goal is to destroy all your bills with your income before they reach either your character or the bottom of the screen. Won class contest for most creative game and best presentation. 
